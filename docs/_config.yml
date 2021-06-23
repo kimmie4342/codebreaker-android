@@ -1,8 +1,8 @@
 remote_theme: ddc-java/ddc-day
 repository_links:
-  enable: true
+  enabled: true
 page_navigator:
-  enable: true
+  enabled: true
 title_from_heading:
   enabled: false
 
