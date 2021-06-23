@@ -1,0 +1,14 @@
+remote_theme: ddc-java/ddc-day
+repository_links:
+  enable: true
+page_navigator:
+  enable: true
+title_from_heading:
+  enabled: false
+
+title: Codebreaker
+discription: "An Android implementation of Bulls & Cows (aka Mastermind)"
+author:
+  name: Kim Ford
+  email: kimmie4342@gmail.com
+  copyright: false
